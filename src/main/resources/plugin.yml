@@ -1,0 +1,13 @@
+name: AntiFallDamage
+version: ${project.version}
+main: xyz.nucker.antifalldamage.AntiFallDamage
+prefix: AntiFallDamage
+load: STARTUP
+authors: [Nucker]
+description: Eliminate fall damage from your world
+website: nucker.xyz
+commands:
+  antifalldamage:
+    description: The reload command
+    aliases: [afd, antifd, afall, afdamage, antifalldmg]
+    usage: /<command> (reload/rl)

@@ -1,0 +1,3 @@
+falldamage-message: "&aYou took no fall damage"
+permission: "antifalldamage.use"
+permission-message: "&cYou took fall damage"
